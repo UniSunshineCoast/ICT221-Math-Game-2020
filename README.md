@@ -1,2 +1,2 @@
 # ICT221-Math-Game-2020
-Group assignment 1.1
+Initial code base for Math Game Group assignment
